@@ -3,12 +3,16 @@
 	"version": "1.0.0",
 	"description": "Personal Prettier config for use in my projects.",
 	"main": "index.js",
-	"keywords": [],
+	"keywords": [
+		"prettier",
+		"config",
+		"prettier-config"
+	],
 	"author": {
 		"name": "Kaylen Dart",
 		"email": "actuallyori@gmail.com"
 	},
-	"license": "ISC",
+	"license": "MIT",
 	"devDependencies": {
 		"prettier": "^3.0.0"
 	},
