@@ -1,7 +1,7 @@
 module.exports = {
 	arrowParens: "always",
 	bracketSameLine: false,
-	bracketSpacing: false,
+	bracketSpacing: true,
 	endOfLine: "lf",
 	htmlWhitespaceSensitivity: "css",
 	insertPragma: false,
@@ -12,4 +12,13 @@ module.exports = {
 	singleQuote: false,
 	useTabs: true,
 	trailingComma: "es5",
+	overrides: [
+		{
+			files: "*.{yml,yaml}",
+			options: {
+				useTabs: false,
+				tabWidth: 4,
+			},
+		},
+	],
 };
