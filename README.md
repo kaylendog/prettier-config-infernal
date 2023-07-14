@@ -37,4 +37,5 @@ The config includes a couple of overrides for specific file types, which are lis
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the
+[LICENSE](https://github.com/kaylendog/prettier-config-infernal/blob/main/LICENSE) file for details.
