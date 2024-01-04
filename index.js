@@ -3,6 +3,7 @@ module.exports = {
 	importOrder: ["^[./]"],
 	importOrderSeparation: true,
 	importOrderSortSpecifiers: true,
+	importOrderParserPlugins: ["typescript", "jsx", "decorators"],
 	arrowParens: "always",
 	bracketSameLine: false,
 	bracketSpacing: true,
