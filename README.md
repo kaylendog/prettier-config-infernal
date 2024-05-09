@@ -6,7 +6,7 @@ A personalized Prettier config from the depths of hell.
 
 Install the package, along with Pretter:
 
-```
+```bash
 npm install --save-dev prettier prettier-config-infernal
 ```
 
