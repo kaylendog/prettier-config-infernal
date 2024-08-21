@@ -1,6 +1,6 @@
 {
 	"name": "prettier-config-infernal",
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"description": "Personal Prettier config for use in my projects.",
 	"main": "index.js",
 	"keywords": [

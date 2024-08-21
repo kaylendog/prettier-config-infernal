@@ -4,7 +4,7 @@ module.exports = {
 	importOrder: ["^[./]"],
 	importOrderSeparation: true,
 	importOrderSortSpecifiers: true,
-	importOrderParserPlugins: ["typescript", "jsx", "decorators"],
+	importOrderParserPlugins: ["typescript", "jsx", "classProperties", "decorators-legacy"],
 	arrowParens: "always",
 	bracketSameLine: false,
 	bracketSpacing: true,
