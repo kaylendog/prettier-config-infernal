@@ -1,6 +1,6 @@
 {
 	"name": "prettier-config-infernal",
-	"version": "3.0.1",
+	"version": "3.1.0",
 	"description": "Personal Prettier config for use in my projects.",
 	"main": "index.js",
 	"keywords": [
@@ -13,8 +13,10 @@
 		"email": "actuallyori@gmail.com"
 	},
 	"license": "MIT",
+	"dependencies": {
+		"@trivago/prettier-plugin-sort-imports": "^5"
+	},
 	"peerDependencies": {
-		"prettier": "^3",
-		"@trivago/prettier-plugin-sort-imports": "^4"
+		"prettier": "^3"
 	}
 }
